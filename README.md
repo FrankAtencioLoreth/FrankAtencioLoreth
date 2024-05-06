@@ -27,9 +27,6 @@ Ingeniero de pruebas automatizadas con experiencia en el desarrollo y ejecución
   <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/01/Serenity-BDD-icon.svg" title="SerenityBDD" alt="SerenityBDD" width="40" height="40"/>
   <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2019/05/BrowserStack-Integration-with-Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2020/07/CypressLogo@2x.png" title="CypressIO" alt="CypressIO" width="40" height="40"/>
-  <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2021/09/BrowserStack-Integration-with-playwright.png" title="Playwright" alt="Playwright" width="40" height="40"/>
-  <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2019/05/BrowserStack-Integration-with-GitHub.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2019/05/BrowserStack-Integration-with-Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
   <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2020/12/Github-action-logo-large.png" title="GitHubAction" alt="GitHubAction" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/01/JUnit-icon.svg" title="Junit" alt="Junit" width="40" height="40"/>
