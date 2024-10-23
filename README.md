@@ -36,15 +36,6 @@ Ingeniero de pruebas automatizadas con experiencia en el desarrollo y ejecución
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" alt="RestAssured" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/>
 
-## :fire: Estadisticas:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrankAtencioLoreth" alt="thefreerangetester" /></a> </p>
-<div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
-</div>
-
 ## Educación
 - Ingeniero de sistemas, [Corporación Universitaria del Caribe - CECAR](https://cecar.edu.co/), 2023.
 - Diplomado en Gestión de las Tecnologías de la Información y las Comunicaciones, [Corporación Universitaria del Caribe - CECAR](https://cecar.edu.co/), 2023.
