@@ -35,6 +35,10 @@ Ingeniero de pruebas automatizadas con experiencia en el desarrollo y ejecución
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="JMeter" alt="JMeter" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" alt="RestAssured" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/karatelabs/karatelabs-original-wordmark.svg" alt="Karate Labs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://2465122.fs1.hubspotusercontent-na1.net/hubfs/2465122/katalon_logo%20(1).svg" alt="Katalon" width="40" height="40"/>
+  
 
 ## Educación
 - Ingeniero de sistemas, [Corporación Universitaria del Caribe - CECAR](https://cecar.edu.co/), 2023.
