@@ -55,7 +55,7 @@ Ingeniero de pruebas automatizadas con experiencia en el desarrollo y ejecución
 
 ## Idiomas
 - Español: Nativo.
-- Inglés: A1.
+- Inglés: B1.
 
 ## Contacto
 - Email: frank.atencio.loreth@gmail.com
